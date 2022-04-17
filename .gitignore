@@ -1,6 +1,16 @@
+<<<<<<< HEAD
 __pycache__/
+bin/
+include/
+lib/
 data/
 Include/
 Lib/
 Scripts/
 pyvenv.cfg
+=======
+bin/
+include/
+lib/
+pyvenv.cfg
+>>>>>>> b98f579ed7810233d5a7456757b34111ea1e6361
